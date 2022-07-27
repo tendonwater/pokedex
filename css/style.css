@@ -74,8 +74,6 @@ main {
     transform: translate(-57%, 0);
     display: flex;
     gap: 20px;
-
-    
 }
 
 .button {
