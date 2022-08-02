@@ -8,6 +8,8 @@
     font-family: 'Press Start 2P', cursive;
 }
 
+
+
 body {
     text-align: center;
     background: linear-gradient(to bottom, #f0e8ff, #cbdefe);
@@ -47,6 +49,7 @@ main {
 .pokemon__name {
     color: #3a444d;
     text-transform: capitalize;
+    
 }
 
 .form {
