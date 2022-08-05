@@ -49,7 +49,6 @@ main {
 .pokemon__name {
     color: #3a444d;
     text-transform: capitalize;
-    
 }
 
 .form {
@@ -65,7 +64,7 @@ main {
     border-width: 3px; 
     border-style: double;
     border-color: #3a444d;
-    font-size: clamp(8px, 5v, 1rem);
+    font-size: clamp(8px, 5vw, 1rem);
     box-shadow: -1px 1px 0 #274551, -2px 2px #295f58; 
 }
 
@@ -76,7 +75,7 @@ main {
     width: 65%;
     transform: translate(-57%, 0);
     display: flex;
-    gap: 20px;
+    gap: 20px;   
 }
 
 .button {
@@ -84,7 +83,7 @@ main {
     padding: 4%;
     border-style: double;
     border-width: 3px;
-    font-size: clamp(5px, 5v, 1rem);
+    font-size: clamp(5px, 3vw, 1rem);
     color: white;
     background-color: #444;
     box-shadow: -2px 2px 0 #222, -2.5px 2.5px #000;
